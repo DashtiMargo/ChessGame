@@ -9,5 +9,4 @@ public record Board(int[] board) {
     }
 
 
-
 }
