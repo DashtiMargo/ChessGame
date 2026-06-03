@@ -7,4 +7,6 @@ public record Board(int[] board) {
         this.board = new Piece[8][8];
         initializeBoard();
     }
+
+
 }
