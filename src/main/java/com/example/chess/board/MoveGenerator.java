@@ -4,6 +4,7 @@ import com.example.chess.entity.Color;
 import com.example.chess.entity.Move;
 import com.example.chess.entity.Piece;
 import com.example.chess.entity.Position;
+import com.example.chess.board.Board
 
 import java.util.ArrayList;
 import java.util.List;
